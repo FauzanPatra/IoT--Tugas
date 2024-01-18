@@ -1,3 +1,5 @@
+Fauzan Abghi Patra(09021382126139)
+
 1). Sejarah IoT (Internet of Things):
 
 Internet of Things (IoT) merujuk pada jaringan perangkat fisik yang terhubung ke internet, yang dapat saling berkomunikasi dan berbagi data. Konsep dasar IoT telah ada sejak beberapa dekade yang lalu, meskipun istilah "Internet of Things" baru muncul pada awal tahun 2000-an. Beberapa tonggak sejarah penting dalam perkembangan IoT melibatkan perkembangan teknologi komunikasi dan sensor.
