@@ -9,7 +9,7 @@ Internet of Things (IoT) merujuk pada jaringan perangkat fisik yang terhubung ke
 Definisi IoT:
 IoT mengacu pada konsep di mana objek fisik atau perangkat dapat saling berkomunikasi dan bertukar data melalui internet. Definisi IoT dapat dirinci sebagai berikut:
 - Internet of Things (IoT) adalah jaringan perangkat fisik, kendaraan, bangunan, dan objek lainnya yang dilengkapi dengan sensor, perangkat lunak, dan teknologi lainnya untuk mengumpulkan dan bertukar data. Tujuan utama dari IoT adalah untuk mengintegrasikan objek-objek ini ke dalam infrastruktur informasi dan komunikasi global, sehingga mereka dapat menyediakan layanan yang lebih cerdas, lebih efisien, dan lebih otomatis.
-- 
+
 IoT memungkinkan objek-objek tersebut untuk berkomunikasi secara langsung atau melalui perantara, membuat keputusan berdasarkan data yang dikumpulkan, dan bertindak sesuai kebutuhan. Hal ini membuka peluang baru dalam berbagai industri dan membawa dampak signifikan pada cara kita hidup dan bekerja.
 
 2). Referensi model Internet of Things (IoT) :
@@ -29,7 +29,7 @@ Layer keempat dari referensi model IoT adalah Data Accumulation. Pada layer ini,
 - Collaboration & Process
 Layer kelima dari referensi model IoT adalah Collaboration & Process. Pada layer ini, data dari perangkat IoT diolah dan dianalisis untuk menghasilkan informasi yang berguna dan dapat digunakan untuk mengambil keputusan bisnis atau untuk memecahkan masalah. Pada layer ini, seringkali digunakan teknologi seperti big data analytics, machine learning, dan artificial intelligence (AI). Apache Hadoop dan Apache Spark adalah contoh teknologi yang sering digunakan pada layer ini.
 
--Application
+- Application
 Layer keenam dari referensi model IoT adalah Application. Pada layer ini, data yang telah diolah dan dianalisis digunakan untuk membuat aplikasi yang dapat digunakan oleh pengguna akhir. Aplikasi tersebut dapat berupa aplikasi mobile, dashboard, atau website. Contoh teknologi yang sering digunakan pada layer ini adalah React Native, Flutter, dan AngularJS.
 
 - Data Abstraction
@@ -61,7 +61,7 @@ Layer terakhir dari referensi model IoT adalah Data Abstraction. Pada layer ini,
 - Kebutuhan: Perangkat IoT seperti perangkat pelacakan kegiatan fisik dan perangkat pemantauan tidur dapat membantu pasien memantau dan meningkatkan gaya hidup sehat.
 - Manfaat: Memberikan informasi yang berguna untuk mendorong kebiasaan hidup sehat dan mencegah penyakit terkait gaya hidup.
 
-7.Manajemen Rantai Pasokan Obat:
+7. Manajemen Rantai Pasokan Obat:
 - Kebutuhan: Penggunaan sensor dan RFID dalam rantai pasokan obat membantu melacak dan memastikan keaslian obat-obatan.
 - Manfaat: Mencegah peredaran obat palsu, memastikan kualitas obat, dan mempercepat respons terhadap kejadian darurat.
 
@@ -73,7 +73,7 @@ Penerapan IoT dalam kesehatan memerlukan perhatian khusus terhadap keamanan, pri
 
 4). Contoh implementasi IoT dalam Transportasi dan logistik
 
-1.Pantauan dan Pelacakan Kargo:
+1. Pantauan dan Pelacakan Kargo:
 - Penggunaan sensor RFID atau GPS pada kontainer dan kendaraan pengiriman untuk memberikan pemantauan dan pelacakan real-time atas lokasi dan status kargo. Ini membantu mengoptimalkan rute pengiriman dan memberikan informasi akurat tentang waktu kedatangan.
 
 2. Optimasi Rute dan Logistik:
