@@ -14,7 +14,7 @@ IoT memungkinkan objek-objek tersebut untuk berkomunikasi secara langsung atau m
 
 2). Referensi model Internet of Things (IoT) :
 
--Physical Devices & Controller
+- Physical Devices & Controller
 Layer pertama dari referensi model IoT adalah Physical Devices & Controller. Layer ini merupakan layer terbawah dalam hierarki referensi model IoT yang bertanggung jawab untuk mengumpulkan data dari sensor atau perangkat yang terhubung ke jaringan IoT. Pada layer ini, perangkat keras seperti Raspberry Pi, Arduino, dan sensor-sensor IoT berada di dalamnya. Raspberry Pi dan Arduino sering digunakan sebagai kontroler atau gateway untuk menghubungkan beberapa sensor dan perangkat IoT ke jaringan internet.
 
 - Connectivity Layer
